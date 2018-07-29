@@ -1,6 +1,33 @@
-frontend-nanodegree-arcade-game
-===============================
+# Classic Arcade Game Clone
+___
 
-Students should use this [rubric](https://review.udacity.com/#!/projects/2696458597/rubric) for self-checking their submission. Make sure the functions you write are **object-oriented** - either class functions (like Player and Enemy) or class prototype functions such as Enemy.prototype.checkCollisions, and that the keyword 'this' is used appropriately within your class and class prototype functions to refer to the object the function is called upon. Also be sure that the **readme.md** file is updated with your instructions on both how to 1. Run and 2. Play your arcade game.
+This is a Udacity Front-end Nanodegree project, part of my Google Scholarship. The idea is to recreate a simple clone of the classic Frogger arcade game.
 
-For detailed instructions on how to get started, check out this [guide](https://docs.google.com/document/d/1v01aScPjSWCCWQLIpFqvg3-vXLH2e8_SZQKC8jNO0Dc/pub?embedded=true).
+## How to play
+
+Click on this link to play the game: 
+
+__*************__ [Cross the Buggy Road](https://syknapse.github.io/arcade_game_fend/) __*************__
+
+Use the arrow keys to move your player across the bug infested road and reach the safety of the Great Blue Bug Free sector. Score 1 point for each successful crossing. Watch-out!! The bugs fight back and score points against you every time they run you over. They also get angrier and meaner the more wins you score.
+
+![arcade](https://user-images.githubusercontent.com/29199184/43368031-b15c17e8-9356-11e8-9a29-fc7f4e577eaf.gif)
+
+## Features
+
++ Game has 8 levels of ascending difficulty factor.
++ Player respawns on a random starting block.
++ Enemies have random speeds and random time between screen exit and respawn within a range that becomes harder each level.
++ Wins counter and a losses counter
++ A central display with playing instructions, new level information, random win or loss phrases, win/loss animations
+
+## Acknowledgements
+
+Of course I couldn't have done this without the great help by many of the current and past FEND nanodegree students.
+
+Special thanks to:
+
++ [Elena-in-Code](https://github.com/elena-in-code/classic-Arcade-game-clon)
++ [jshanks24](https://github.com/jshanks24/Udacity-Arcade-Game)
++ [brenopolanski](https://github.com/brenopolanski/udacity-classic-arcade-game-clone)
++ [ThanCodes](https://github.com/ThanCodes/udacity-classic-arcade-game-clone)
