@@ -2,7 +2,7 @@ const billboard = document.getElementById('billboard')
 const announcements = document.getElementById('announcements')
 const winDisplay = document.getElementById('win')
 const lossDisplay = document.getElementById('loss')
-const winPhrases = ['Bananas!!', 'You win', 'Great', 'Wonderful', 'How did you do that!', 'Epic', 'This will be remembered', 'Historic cross', 'What a dodge!', 'Look at you!', 'Champ', 'BUG-CRUSH', 'Do it. DO IT', 'Viral meme', 'Happy thoughts', 'Win-win']
+const winPhrases = ['Bananas!!', 'You win', 'Great', 'Wonderful', 'How did you do that!', 'Epic', 'This will be remembered', 'Historic crossing', 'What a dodge!', 'Look at you!', 'Champ', 'BUG-CRUSH', 'Do it. DO IT', 'Viral meme', 'Happy thoughts', 'Win-win']
 const lossPhrases = ['Mashed', 'Guacamoled', 'Banana split', 'Pureed', 'Bugged infested', 'Wasted youth', 'Give up!', 'Look before you cross', 'reaction level: 0', 'Hold the door', 'Over ran', 'Trashed', 'Trailer parked', 'Lost your marbles']
 
 // ********** Enemy

@@ -5,7 +5,7 @@ This is a Udacity Front-end Nanodegree project, part of my Google Scholarship. T
 
 ## How to play
 
-Click on this link to play the game: 
+Click on this link to play the game:
 
 __*************__ [Cross the Buggy Road](https://syknapse.github.io/arcade_game_fend/) __*************__
 
@@ -20,6 +20,11 @@ Use the arrow keys to move your player across the bug infested road and reach th
 + Enemies have random speeds and random time between screen exit and respawn within a range that becomes harder each level.
 + Wins counter and a losses counter
 + A central display with playing instructions, new level information, random win or loss phrases, win/loss animations
+
+## Tech
+
+Vanilla JS
+Object-oriented programming
 
 ## Acknowledgements
 
