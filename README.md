@@ -26,6 +26,10 @@ Use the arrow keys to move your player across the bug infested road and reach th
 Vanilla JS
 Object-oriented programming
 
+## Installation
+
+If you would like to install this game on your device you can clone or download this repo. Once you have the project folder all you have to do is launch the `index.html`file in your browser (you can find an option to do so by right-clicking on the file). Enjoy
+
 ## Acknowledgements
 
 Of course I couldn't have done this without the great help by many of the current and past FEND nanodegree students.
